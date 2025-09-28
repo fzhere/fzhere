@@ -2,7 +2,7 @@
 
 ## SKILLS
 
-- **Programming & Markup Languages:** HTML, CSS, JavaScript, TypeScript, SCSS/SASS, Swift
+- **Programming & Markup Languages:** HTML, CSS, JavaScript, TypeScript, SCSS/SASS, Swift, LaTeX
 - **Frameworks & Libraries:** React, Next.js, Remix, Tailwind CSS, Tauri
 - **Databases:** MySQL, SQLite
 - Object-Oriented Programming (OOP), algorithms, data structures
